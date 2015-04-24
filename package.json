@@ -1,0 +1,31 @@
+{
+  "name": "react-tween-layout-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/razh/react-tween-layout-example.git"
+  },
+  "author": "razh",
+  "private": true,
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/razh/react-tween-layout-example/issues"
+  },
+  "homepage": "https://github.com/razh/react-tween-layout-example",
+  "dependencies": {
+    "css-layout": "0.0.2",
+    "react": "^0.13.2",
+    "react-tween-state": "0.0.5"
+  },
+  "devDependencies": {
+    "babel-core": "^5.1.11",
+    "babel-loader": "^5.0.0",
+    "webpack": "^1.8.9",
+    "webpack-dev-server": "^1.8.2"
+  }
+}
