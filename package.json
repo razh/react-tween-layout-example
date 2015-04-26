@@ -1,5 +1,5 @@
 {
-  "name": "react-tween-layout-example",
+  "name": "react-tween-layout-experiment",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/razh/react-tween-layout-example.git"
+    "url": "https://github.com/razh/react-tween-layout-experiment.git"
   },
   "author": "razh",
   "private": true,
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/razh/react-tween-layout-example/issues"
+    "url": "https://github.com/razh/react-tween-layout-experiment/issues"
   },
-  "homepage": "https://github.com/razh/react-tween-layout-example",
+  "homepage": "https://github.com/razh/react-tween-layout-experiment",
   "dependencies": {
     "css-layout": "0.0.2",
     "react": "^0.13.2",
