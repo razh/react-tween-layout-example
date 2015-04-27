@@ -22,7 +22,7 @@ gulp.task('webpack-dev-server', function() {
     },
     module: {
       loaders: [
-        { test: /\.js$/, loaders: ['babel?stage=1'], exclude: /node_modules/ }
+        { test: /\.js$/, loaders: ['babel?stage=1&optional=runtime'], exclude: /node_modules/ }
       ]
     }
   });
